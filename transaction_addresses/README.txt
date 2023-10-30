@@ -38,12 +38,3 @@ Do NOT add/remove output columns, or change their ordering
 
 Run it with the dates you're looking for in range (I do transaction time but the other one 
 should work too)
-
-The way this one is coded is kind of dumb
-I couldn't use the labelling index at first because I didn't realize there were spaces
-before the header names. Eventually I figured it out, but I was mostly done by that point
-and it works so I'm not about to overhaul the whole code. If it really bothers you you're welcome
-to try and fix it.
-
-You will need to edit the "folder" variable if you're not Paul and not running on the desktop
-You shouldn't need to touch anything else
